@@ -5,7 +5,7 @@
   
 - 👀 I’m interested in Python Development
 
-- 🌱 I’m currently learning Data Base
+- 🌱 I’m currently learning Data Structures and Algorithms
 
 - 👨‍💻 Technologies:
 
