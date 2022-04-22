@@ -48,9 +48,13 @@
   
       Got Gold 5 stars in Hacker Rank On Python Programming  
       
+<br/>
 
 
-
+ 
+ ![Padala Kiran Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=padalakiran&theme=merko&show_icons=true)
+ 
+  
 
 
 - 📫 How to reach me 
@@ -60,7 +64,9 @@
   [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/padala-kiran-kumar-08ba71192/)
   [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png">](https://wa.me/917995141415)
   [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png">](https://www.instagram.com/padala_kiran_kumar/)
+ <br/>
  
+
  
  
  
