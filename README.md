@@ -1,8 +1,8 @@
 
 
-## 👋 Hi, I’m Padala Kiran Kumar
- 
- <img align="right" width="400" height="450" src="https://konversations.com/community/img/stories/500x500/story_109.jpeg">
+## 👋 Hi, I’m Padala Kiran Kumar     
+<img align="right" width="500" height="550" src="https://konversations.com/community/img/stories/500x500/story_109.jpeg">
+  
 - 👀 I’m interested in Python Development
 
 - 🌱 I’m currently learning Data Base
