@@ -53,6 +53,8 @@
 
  
  ![Padala Kiran Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=padalakiran&theme=chartreuse-dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padalakiran&layout=compact&theme=chartreuse-dark)
+
 
  
   
