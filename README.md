@@ -32,7 +32,7 @@
   
   <img align="left" width="30" height="25" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
   <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
-  <img align="left" width="30" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtoXc3LIK-IUa9krho7jq_brOT3CfuLtwkYpg_5dOonqgRtWwrxBnRUzXJNTesw8xg24&usqp=CAU">
+  
   
   
   
