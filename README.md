@@ -22,6 +22,7 @@
   <br/>
   <br/>
   <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+  <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
   
   <br/>
   <br/>
@@ -32,6 +33,7 @@
   
   <img align="left" width="30" height="25" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
   <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
+   <img align="left" width="30" height="30" src="https://pngimg.com/uploads/github/github_PNG80.png">
   
   
   
