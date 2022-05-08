@@ -35,6 +35,7 @@
   <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
    <img align="left" width="30" height="30" src="https://pngimg.com/uploads/github/github_PNG80.png">
    <img align="left" width="30" height="30" src="https://gitforwindows.org/img/gwindows_logo.png">
+      <img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
   
   
   
