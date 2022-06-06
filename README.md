@@ -5,8 +5,7 @@
   
 - 👀 I’m interested in Python Development
 
-- 🌱 I’m currently learning Data Structures and Algorithms
-
+- 🌱 I’m currently learning Google Cloud Platform 
 - 👨‍💻 Technologies:
 
   Programming Languages
@@ -15,7 +14,6 @@
   <img align="left" width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
   <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
   <img align="left" width="40" height="30" src="https://static.javatpoint.com/images/javascript/javascript_logo.png">
-  <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
   <br/>
   <br/>
   Database
@@ -23,6 +21,7 @@
   <br/>
   <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
+  <img align="left" width="30" height="35" src="https://symbols.getvecta.com/stencil_3/1_google-cloud-platform.6c162963fd.svg">
   
   <br/>
   <br/>
