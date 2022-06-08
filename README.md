@@ -21,8 +21,6 @@
   <br/>
   <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
-  <img align="left" width="30" height="35" src="https://symbols.getvecta.com/stencil_3/1_google-cloud-platform.6c162963fd.svg">
-  
   <br/>
   <br/>
   
