@@ -3,9 +3,9 @@
 ## 👋 Hi, I’m Padala Kiran Kumar     
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
   
-- 👀 I’m interested in Python Development
+- 👀 I’m interested in Backend Development
 
-- 🌱 I’m currently learning Google Cloud Platform 
+- 🌱 I’m currently learning Google Cloud
 - 👨‍💻 Technologies:
 
   Programming Languages
