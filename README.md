@@ -21,6 +21,7 @@
   <br/>
   <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
+  <img align="left" width="40" height="35" src="https://icons-for-free.com/download-icon-postgresql+plain+wordmark-1324760555518154961_512.png">
   <br/>
   <br/>
   
