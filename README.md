@@ -13,7 +13,7 @@
   <img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
   <img align="left" width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
   <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
-  <img align="left" width="40" height="30" src="https://static.javatpoint.com/images/javascript/javascript_logo.png">
+  <img align="left" width="30" height="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png">
   <br/>
   <br/>
   Database
