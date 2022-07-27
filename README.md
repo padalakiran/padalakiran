@@ -5,7 +5,7 @@
   
 - 👀 I’m interested in Backend Development
 
-- 🌱 I’m currently learning Google Cloud
+- 🌱 I’m currently learning Data structure and Algorithm
 - 👨‍💻 Technologies:
 
   Programming Languages
