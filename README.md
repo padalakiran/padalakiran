@@ -11,7 +11,7 @@
   Programming Languages
   
   <img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-  <img align="left" width="30" height="30" src="https://o.remove.bg/downloads/915862b3-a964-495e-a32f-cd411623fbe0/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail-removebg-preview.png">
+  <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/73814328/221147844-15ab4efa-1cd6-4042-b90b-33ad0912fae9.png">
   <img align="left" width="30" height="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png">
   <br/>
   <br/>
