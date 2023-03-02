@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Padala Kiran Kumar    </br>      &nbsp;👨‍💻 Software Developer
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
   
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Software Engineering
 
 - 🌱 I’m currently learning Data structure and Algorithm
 - 👨‍💻 Technologies:
