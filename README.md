@@ -70,7 +70,7 @@
 
  </br>
  
- ![Padala Kiran Kumar's github activity graph](https://activity-graph.herokuapp.com/graph?username=padalakiran&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+
 
 
 - 📫 How to reach me 
