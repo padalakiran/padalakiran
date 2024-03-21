@@ -54,7 +54,7 @@
  - 💻 Some of My Best Works 
  </br>
  
-[![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Metro_Ticketing&theme=blue-green)](https://github.com/padalakiran/Metro_Ticketing)
+[![Hospital Management System](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Hospital_Management_System&theme=blue-green)](https://github.com/padalakiran/Hospital_Management_System)
 [![Bank Management System For Admin](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Bank_Management_System_For_Admin&theme=blue-green)](https://github.com/padalakiran/Bank_Management_System_For_Admin)
 
 
