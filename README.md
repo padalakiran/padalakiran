@@ -74,15 +74,6 @@
 
 
 
-- 📫 How to reach me 
-
-  [𝒫𝑜𝓇𝓉𝒻𝑜𝓁𝒾𝑜](https://padalakiran.wixsite.com/kiran-portfolio)
-
-  [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/P-Kiran/)
-  [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png">](https://wa.me/917995141415)
-  [<img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png">](https://www.instagram.com/padala_kiran_kumar/)
- <br/>
- 
 
  
  
