@@ -3,9 +3,9 @@
 ## 👋 Hi, I’m Padala Kiran Kumar</br>      &nbsp;👨‍💻 Analyst II at DXC Technology
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
   
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Infrastructure Services
 
-- 🌱 I’m currently learning Data structure and Algorithm
+- 🌱 I’m currently learning DevOps
 - 👨‍💻 Technologies:
 
   Programming Languages
@@ -51,7 +51,10 @@
  
  - 🏆 Achievements
   
-      Got Gold 5 stars in Hacker Rank On Python Programming  
+      IBM Mainframe Systems Operator Level I Certificate 3.1
+
+      Got Gold 5 stars in Hacker Rank On Python Programming
+
       
 <br/>
 
