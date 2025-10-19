@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=padalakiran&color=brightgreen)
-## 👋 Hi, I’m Padala Kiran Kumar</br>      &nbsp;👨‍💻 Software Engineer
+## 👋 Hi, I’m Padala Kiran Kumar</br>      &nbsp;👨‍💻 Analyst II at DXC Technology
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
   
 - 👀 I’m interested in Software Engineering
@@ -21,7 +21,8 @@
   <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
   <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
   <img align="left" width="50" height="35" src="https://github.com/user-attachments/assets/94d735f1-cb3d-4a7d-9925-cb119cbe1df3">
-  <img align="left" width="50" height="40" src="https://github.com/user-attachments/assets/7c00288a-7542-4b95-a7dd-4d064c957661">
+  <img align="left" width="50" height="40" src="https://github.com/user-attachments/assets/7c00288a-7542-4b95-a7dd-4d064c957661"> 
+
   
   <br/>
   <br/>
@@ -29,7 +30,9 @@
 
   Tools
   <br/>
+
   
+  <img align="left" width="45" height="70" src="https://github.com/user-attachments/assets/d9f631dd-3d77-4417-9ed6-a0d0625090cb" />
   <img align="left" width="45" height="30" src="https://github.com/user-attachments/assets/76dbd5f5-7206-4cee-bba8-e9dc5a0d0edf">
   <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
    <img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/ae6be221-b189-4098-b121-5e75e4a967db">
