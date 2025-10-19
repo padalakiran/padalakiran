@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning DevOps
 - 👨‍💻Experiance:</br>
 **Analyst II Infrastructure Services at DXC Technology** </br>
-**QA Intern at Klimb.io**
+
+**QA Intern at Klimb.io**</br>
+
 - 👨‍💻Skills:
 
   Programming Languages
