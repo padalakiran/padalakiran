@@ -2,11 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=padalakiran&color=brightgreen)
 ## 👋 Hi, I’m Padala Kiran Kumar</br>      &nbsp;👨‍💻 Analyst II at DXC Technology
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
-  
+   
 - 👀 I’m interested in Infrastructure Services
 
 - 🌱 I’m currently learning DevOps
-- 👨‍💻 Technologies:
+- 👨‍💻Experiance:</br>
+**Analyst II Infrastructure Services at DXC Technology** </br>
+**QA Intern at Klimb.io**
+- 👨‍💻Skills:
 
   Programming Languages
   
