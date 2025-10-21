@@ -44,7 +44,7 @@
    - Managed and monitored mainframe systems to ensure 24/7 availability and optimal performance.
    - Executed batch jobs, scheduled workflows, and monitored job logs for successful completion and error resolution.
    - Collaborated with development and support teams to troubleshoot issues and implement system enhancements.
-   - Utilized tools such as JES2/JES3, TSO/ISPF, SDSF, IZWS, Jobtrac and automation tools like AF/Oper and System Automation to get Optimal performance
+   - Utilized tools such as JES3, TSO/ISPF, SDSF, IZWS, Jobtrac and automation tools like AF/Oper and System Automation to get Optimal performance
 
 
    **QA Intern at Klimb.io** | *August 2024 – November 2024*
