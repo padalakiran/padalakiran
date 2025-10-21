@@ -42,7 +42,6 @@
 
 
 - 💼 Experience:</br></br>
-<h2>🧑‍💼 Experience</h2>
 
 <table>
   <thead>
