@@ -4,11 +4,19 @@
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
   
 - 👀 I’m interested in Infrastructure Services
-- 💼 Experience:
-   - Analyst II Infrastructure Services at DXC Technology
-   - QA Intern at Klimb.io
-- 🌱 I’m currently learning DevOps
-- 👨‍💻 Technologies:
+-  🌱 I’m currently learning DevOps
+- 💼 Experience:</br></br>
+   **Analyst II at DXC Technology** | *March 2025 – Present*
+   -  Worked on automation, cloud infrastructure, and DevOps implementation for various client projects.
+   -  Assisted in setting up CI/CD pipelines using Jenkins, GitLab, and other tools for efficient software delivery.
+
+
+   **QA Intern at Klimb.io** | *August 2024 – November 2024*
+   -  Worked on automation, cloud infrastructure, and DevOps implementation for various client projects.
+   -  Assisted in setting up CI/CD pipelines using Jenkins, GitLab, and other tools for efficient software delivery.
+
+   
+- 👨‍💻 Skills:
 
   Programming Languages
   
