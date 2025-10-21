@@ -7,58 +7,61 @@
 -  🌱 I’m currently learning DevOps
 - 💼 Experience:</br></br>
    **Analyst II at DXC Technology** | *March 2025 – Present*
-   -  Worked on automation, cloud infrastructure, and DevOps implementation for various client projects.
-   -  Assisted in setting up CI/CD pipelines using Jenkins, GitLab, and other tools for efficient software delivery.
+   - Managed and monitored mainframe systems to ensure 24/7 availability and optimal performance.
+   - Executed batch jobs, scheduled workflows, and monitored job logs for successful completion and error resolution.
+   - Performed system backups, recovery procedures, and routine maintenance tasks to maintain data integrity and system reliability.
+   - Collaborated with development and support teams to troubleshoot issues and implement system enhancements.
+   - Utilized tools such as JES2/JES3, TSO/ISPF, SDSF, IZWS, Jobtrac and automation tools like AF/Oper and System Automation to get Optimal performance
+   - Ensured compliance with security policies and operational standards in a high-volume transaction environment.
 
 
    **QA Intern at Klimb.io** | *August 2024 – November 2024*
-   -  Worked on automation, cloud infrastructure, and DevOps implementation for various client projects.
-   -  Assisted in setting up CI/CD pipelines using Jenkins, GitLab, and other tools for efficient software delivery.
+   - Conducted manual testing of web and mobile applications to identify bugs and ensure functionality met requirements.
+   - Designed and executed test cases based on functional specifications and user stories.
+   - Logged and tracked defects using bug tracking tools, collaborating with developers to facilitate timely resolution.
+   - Performed data validation and verification using MongoDB queries to ensure data integrity and accuracy.
+   - Assisted in creating test documentation including test plans, test cases, and test reports.
 
    
 - 👨‍💻 Skills:
 
   Programming Languages
   
-  <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-  <img align="left" width="35" height="30" src="https://user-images.githubusercontent.com/73814328/222348484-656dd300-f150-46a4-aa7e-9675416ac428.png">
-  <img align="left" width="30" height="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png">
-  <br/>
-  <br/>
-  Database
-  <br/>
-  <br/>
-  <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
-  <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
-  <img align="left" width="50" height="35" src="https://github.com/user-attachments/assets/94d735f1-cb3d-4a7d-9925-cb119cbe1df3">
-  <img align="left" width="50" height="40" src="https://github.com/user-attachments/assets/7c00288a-7542-4b95-a7dd-4d064c957661"> 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+  Database
   
-  <br/>
-  <br/>
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+  Mainframe Tools
   
+  ![CA Jobtrac](https://img.shields.io/badge/CA%20Jobtrac-0078D7?style=flat-square&logo=appveyor&logoColor=white)
+![IBM IZWS](https://img.shields.io/badge/IBM%20IZWS-1F70C1?style=flat-square&logo=ibm&logoColor=white)
+![AF/Oper](https://img.shields.io/badge/AF%2FOper-FF6F00?style=flat-square&logo=appveyor&logoColor=white)
+![IBM System Automation](https://img.shields.io/badge/IBM%20System%20Automation-000000?style=flat-square&logo=ibm&logoColor=white)
+![Z/OS](https://img.shields.io/badge/Z%2FOS-E01E1E?style=flat-square&logo=ibm&logoColor=white)
+
+
+
 
   Tools
-  <br/>
-
   
-  <img align="left" width="45" height="70" src="https://github.com/user-attachments/assets/d9f631dd-3d77-4417-9ed6-a0d0625090cb" />
-  <img align="left" width="45" height="30" src="https://github.com/user-attachments/assets/76dbd5f5-7206-4cee-bba8-e9dc5a0d0edf">
-  <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
-   <img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/ae6be221-b189-4098-b121-5e75e4a967db">
-      <img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/164d0b5e-cd18-4eb3-82aa-5ceb76f8fea7">
-      <img align="left" width="30" height="25" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
   
   
   
 
 
-
-<br/>
-<br/>
-</br>
-
- 
  
  - 🏆 Achievements
   
