@@ -42,6 +42,41 @@
 
 
 - 💼 Experience:</br></br>
+<h2>🧑‍💼 Experience</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Company Name</th>
+      <th>Role</th>
+      <th>Skills</th>
+      <th>Description</th>
+      <th>Dates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DXC Technology</td>
+      <td>Analyst II</td>
+      <td>Z/OS, IZWS, Jobtrac, Af/Oper, System Automation</td>
+      <td>Managed and monitored mainframe systems to ensure 24/7 availability and optimal performance.</td>
+      <td>March 2025 – Present</td>
+    </tr>
+    <tr>
+      <td>Klimb.io</td>
+      <td>QA Intern</td>
+      <td>Manual testing, Postman, MongoDB, Trello</td>
+      <td>Conducted manual testing of web and mobile applications to identify bugs and ensure functionality met requirements.</td>
+      <td>August 2024 – November 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<!---
+
    **Analyst II at DXC Technology** | *March 2025 – Present*
    - Managed and monitored mainframe systems to ensure 24/7 availability and optimal performance.
    - Executed batch jobs, scheduled workflows, and monitored job logs for successful completion and error resolution.
@@ -56,7 +91,7 @@
    - Assisted in creating test documentation including test plans, test cases, and test reports.
 
    
-
+---> 
   
   
   
@@ -112,6 +147,11 @@ Show some ❤️ by starring some of the repositories!
 padalakiran/padalakiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
 
 
 
