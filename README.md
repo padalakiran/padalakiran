@@ -4,7 +4,9 @@
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
   
 - 👀 I’m interested in Infrastructure Services
-
+- 💼 Experience:
+   - Analyst II Infrastructure Services at DXC Technology
+   - QA Intern at Klimb.io
 - 🌱 I’m currently learning DevOps
 - 👨‍💻 Technologies:
 
@@ -52,9 +54,8 @@
  
  - 🏆 Achievements
   
-      IBM Mainframe Systems Operator Level I Certificate 3.1
-
-      Got Gold 5 stars in Hacker Rank On Python Programming
+      - IBM Mainframe Systems Operator Level I Certificate 3.1
+      - Got Gold 5 stars in Hacker Rank On Python Programming
 
       
 <br/>
