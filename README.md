@@ -5,24 +5,6 @@
   
 - 👀 I’m interested in Infrastructure Services
 -  🌱 I’m currently learning DevOps
-- 💼 Experience:</br></br>
-   **Analyst II at DXC Technology** | *March 2025 – Present*
-   - Managed and monitored mainframe systems to ensure 24/7 availability and optimal performance.
-   - Executed batch jobs, scheduled workflows, and monitored job logs for successful completion and error resolution.
-   - Performed system backups, recovery procedures, and routine maintenance tasks to maintain data integrity and system reliability.
-   - Collaborated with development and support teams to troubleshoot issues and implement system enhancements.
-   - Utilized tools such as JES2/JES3, TSO/ISPF, SDSF, IZWS, Jobtrac and automation tools like AF/Oper and System Automation to get Optimal performance
-   - Ensured compliance with security policies and operational standards in a high-volume transaction environment.
-
-
-   **QA Intern at Klimb.io** | *August 2024 – November 2024*
-   - Conducted manual testing of web and mobile applications to identify bugs and ensure functionality met requirements.
-   - Designed and executed test cases based on functional specifications and user stories.
-   - Logged and tracked defects using bug tracking tools, collaborating with developers to facilitate timely resolution.
-   - Performed data validation and verification using MongoDB queries to ensure data integrity and accuracy.
-   - Assisted in creating test documentation including test plans, test cases, and test reports.
-
-   
 - 👨‍💻 Skills:
 
   Programming Languages
@@ -56,6 +38,22 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+- 💼 Experience:</br></br>
+   **Analyst II at DXC Technology** | *March 2025 – Present*
+   - Managed and monitored mainframe systems to ensure 24/7 availability and optimal performance.
+   - Executed batch jobs, scheduled workflows, and monitored job logs for successful completion and error resolution.
+   - Collaborated with development and support teams to troubleshoot issues and implement system enhancements.
+   - Utilized tools such as JES2/JES3, TSO/ISPF, SDSF, IZWS, Jobtrac and automation tools like AF/Oper and System Automation to get Optimal performance
+
+
+   **QA Intern at Klimb.io** | *August 2024 – November 2024*
+   - Conducted manual testing of web and mobile applications to identify bugs and ensure functionality met requirements.
+   - Designed and executed test cases based on functional specifications and user stories.
+   - Performed data validation and verification using MongoDB queries to ensure data integrity and accuracy.
+   - Assisted in creating test documentation including test plans, test cases, and test reports.
+
+   
 
   
   
